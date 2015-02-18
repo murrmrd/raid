@@ -1,0 +1,35 @@
+# 
+# === DEVICES ===
+#
+
+{/dev/sdX /dev/sdY /dev/sda /dev/sdZ dev/sdb dev/sdc dev/sdu}
+
+#
+# === RECOVERED VOLUME ===
+#
+
+{10G}
+
+#
+# === BLOCK SIZES ===
+#
+
+sizes=64 128 256 512 1024 2048 4096 8192
+
+
+#
+# === TESTS ===
+#
+# recover == 1 (default)
+#
+# disks algorithm options
+
+count_disks=5 module=lrc     11111s122222s233333s3eg
+21 lrc     optimum
+21 lrc     optimum,2g
+21 raid6   
+21 raid6   recover=2
+21 lrc_hs  optimum
+17 lrc_hs  optimum
+
+# === EOF ===
