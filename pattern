@@ -24,7 +24,7 @@ sizes=64 128 256 512 1024 2048 4096 8192
 #
 # disks algorithm options
 
-count_disks=5 module=lrc   scheme 11111gs122222s233333s3eg
+count_disks=3 module=lrc   scheme 1g1111s122222s233333s3eg
 21 lrc     optimum
 21 lrc     optimum,2g
 21 raid6   

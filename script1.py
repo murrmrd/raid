@@ -1,5 +1,8 @@
 # -*- coding: UTF-8 -*-
 import re
+# import os
+# import get_constants
+# import subprocess
 f = open('pattern', 'r')
 text = f.read()
 result = re.findall('{(.*?)}', text)
@@ -7,8 +10,16 @@ disks = re.findall('count_disks=(.*?) ', text)
 sizes = re.findall('sizes=(.*?)\n', text)
 partitions = result[0].split(' ')
 sequence = re.findall('scheme (.*?)\n', text)
+mod = re.findall('module=(.*?) ', text)
 # print sequence[0]
 # partitions = int(result[0].count('dev'))
+if mod[0] == 'lrc':
+    # get_constants.main()
+    # subprocess.Popen(['python', 'get_constants.py'])
+    # os.startfile(r'/home/murrm/PycharmProjects/raid/get_constants.py')
+
+    print 'lol11'
+# os.system('python get_constants.py')
 if len(partitions) < int(disks[0]):
     print 'Error, partitions < disks'
     exit()
@@ -25,7 +36,6 @@ if byte == 'M' or byte == 'm':
     size_block = int(disks[0])*2*1024*size_disk
 if byte == 'K' or byte == 'k':
     size_block = int(disks[0])*2*size_disk
-mod = re.findall('module=(.*?) ', text)
 table = open('table', 'a')
 for i in xrange(len(c)):
     table.write('0 %s insane %s %s %s recover 1 %s \n' % (size_block, mod[0], int(disks[0]), int(c[i]), b))
