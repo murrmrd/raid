@@ -5,14 +5,16 @@ text = f.read()
 result = re.findall('{(.*?)}', text)
 disks = re.findall('count_disks=(.*?) ', text)
 sizes = re.findall('sizes=(.*?)\n', text)
-partitions = int(result[0].count('dev'))
-if partitions < int(disks[0]):
+partitions = result[0].split(' ')
+sequence = re.findall('scheme (.*?)\n', text)
+# print sequence[0]
+# partitions = int(result[0].count('dev'))
+if len(partitions) < int(disks[0]):
     print 'Error, partitions < disks'
     exit()
-a = result[0].split(' ')
 parts = []
 for i in xrange(int(disks[0])):
-    parts.append(a[i])
+    parts.append(partitions[i])
 b = ' '.join(parts)
 c = sizes[0].split(' ')
 size_disk = int(result[1][:-1])
@@ -28,25 +30,25 @@ table = open('table', 'a')
 for i in xrange(len(c)):
     table.write('0 %s insane %s %s %s recover 1 %s \n' % (size_block, mod[0], int(disks[0]), int(c[i]), b))
 table.close()
-print(result)
+# print(result)
 # массив из данных в скобках {}
-print size_disk
+# print size_disk
 # размер одного диска
-print byte
+# print byte
 # еденицы измерения диска-G,M,K
-print disks[0]
+# print disks[0]
 # количество дисков
-print size_block
+# print size_block
 # размер всего устройства=2*1024*N...
-print mod[0]
+# print mod[0]
 # используемый модуль(lrc,raid 6,...)
-print sizes
+# print sizes
 # массив с размерами блоков
-print a
+# print partitions
 # массив с разделами
-print b
+# print b
 # используемые разделы
-print c
+# print c
 # массив с используемыми размерами блоков
 
 # size_block=int(disks[0])*2
