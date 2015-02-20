@@ -2,7 +2,6 @@
 # -*- coding: UTF-8 -*-
 # Эта функция формирует все define'ы для файла lrc_config.c
 import re
-import script1
 def defines(scheme):
     sd = scheme.count('1') - 1
     ss = scheme.count('s') + scheme.count('S')
@@ -144,9 +143,13 @@ def constants(scheme):
 
 # Вот эту штуку надо бы переписать, чтобы схема задавалась не input'ом.
 def get_scheme():
+    f = open('pattern', 'r')
+    text = f.read()
+    sequence = re.findall('scheme (.*?)\n', text)
 
     # print('You can input numbers 1-9, letters "s","e","g" (or "S","E","G")')
-    scheme = script1.sequence[0]
+    scheme = sequence[0]
+    f.close()
     print scheme
     return scheme
 
@@ -162,4 +165,6 @@ def main():
     scheme = get_scheme()
     make_file(scheme)
 
-main()
+if __name__ == '__main':
+    main()
+

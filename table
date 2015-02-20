@@ -1,8 +1,8 @@
-0 62914560 insane lrc 3 64 recover 1 /dev/sdX /dev/sdY /dev/sda 
-0 62914560 insane lrc 3 128 recover 1 /dev/sdX /dev/sdY /dev/sda 
-0 62914560 insane lrc 3 256 recover 1 /dev/sdX /dev/sdY /dev/sda 
-0 62914560 insane lrc 3 512 recover 1 /dev/sdX /dev/sdY /dev/sda 
-0 62914560 insane lrc 3 1024 recover 1 /dev/sdX /dev/sdY /dev/sda 
-0 62914560 insane lrc 3 2048 recover 1 /dev/sdX /dev/sdY /dev/sda 
-0 62914560 insane lrc 3 4096 recover 1 /dev/sdX /dev/sdY /dev/sda 
-0 62914560 insane lrc 3 8192 recover 1 /dev/sdX /dev/sdY /dev/sda 
+0 41943040 insane lrc 2 64 recover 1 /dev/sdX /dev/sdY 
+0 41943040 insane lrc 2 128 recover 1 /dev/sdX /dev/sdY 
+0 41943040 insane lrc 2 256 recover 1 /dev/sdX /dev/sdY 
+0 41943040 insane lrc 2 512 recover 1 /dev/sdX /dev/sdY 
+0 41943040 insane lrc 2 1024 recover 1 /dev/sdX /dev/sdY 
+0 41943040 insane lrc 2 2048 recover 1 /dev/sdX /dev/sdY 
+0 41943040 insane lrc 2 4096 recover 1 /dev/sdX /dev/sdY 
+0 41943040 insane lrc 2 8192 recover 1 /dev/sdX /dev/sdY 
