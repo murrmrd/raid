@@ -1,0 +1,9 @@
+#define disks_count 21
+#define groups_count 3
+#define group_len 6
+#define disks_count 22
+#define groups_count 3
+#define group_len 6
+#define disks_count 22
+#define groups_count 3
+#define group_len 6
