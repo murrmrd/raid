@@ -1,0 +1,8 @@
+0 1048576 insane lrc 4 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8 
+0 1048576 insane lrc 4 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8 
+0 1048576 insane lrc 4 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8 
+0 1048576 insane lrc 4 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8 
+0 1048576 insane lrc 4 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8 
+0 1048576 insane lrc 4 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8 
+0 1048576 insane lrc 4 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8 
+0 1048576 insane lrc 4 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8 

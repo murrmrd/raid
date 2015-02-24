@@ -143,9 +143,9 @@ def constants(scheme):
 
 # Вот эту штуку надо бы переписать, чтобы схема задавалась не input'ом.
 def get_scheme():
-    f = open('pattern', 'r')
+    f = open('pattern2', 'r')
     text = f.read()
-    sequence = re.findall('scheme (.*?)\n', text)
+    sequence = re.findall('scheme=(.*?)\n', text)
 
     # print('You can input numbers 1-9, letters "s","e","g" (or "S","E","G")')
     scheme = sequence[0]

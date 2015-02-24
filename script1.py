@@ -1,9 +1,12 @@
+#!/bin/python
 # -*- coding: UTF-8 -*-
 import re
 # import os
 # import subprocess
 import get_constants
 f = open('pattern2', 'r')
+# for line in f:
+
 text = f.read()
 devices = re.findall('\[devices\]\n(.*?)\n', text)
 print devices
@@ -14,7 +17,8 @@ print disks
 sizes = re.findall('\[block_sizes\]\n(.*?)\n', text)
 print sizes
 partitions = devices[0].split(' ')
-mod = re.findall('#\n#\n\n[0-9]* (.*?) ', text)
+
+mod = re.findall('#\n#\n\n[0-9]*[^# ] (.*?) ', text)
 print mod
 sequence = re.findall('scheme=(.*?)\n', text)
 size_disk = int(volume[0][:-1])
@@ -50,7 +54,7 @@ groups = re.findall('groups=(.*?),',text)
 
 print groups
 
-table = open('table', 'a')
+table = open('TABLE', 'a')
 for i in xrange(len(c)):
     table.write('0 %s insane %s %s %s recover 1 %s \n' % (size_block, mod[0], int(disks[0]), int(c[i]), b))
 table.close()
