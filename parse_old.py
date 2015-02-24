@@ -20,7 +20,13 @@ for i in xrange(len(tests)):
             # print groups
             # print length
 
-
+            # try:
+            #     if test1[4][:8] == 'global_s':
+            #         global_s = test1[4][9:]
+            #         # continue
+            #                 # print global_s
+            # except IndexError:
+            #     global_s = 1
 
     elif test1[1] == 'raid6':
         mod = 'raid6'

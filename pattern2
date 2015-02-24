@@ -26,11 +26,11 @@
 #
 #
 
-*4 lrc scheme=11111s122222s233333s3eg
-*21 lrc groups=3 length=6
-*22 lrc groups=3 length=6 global_s=2
-*22 lrc groups=3 length=6 global_s=5
-*21 raid6
-*21 raid6
-*7 lrc scheme=lol
+4 lrc scheme=11111s122222s233333s3eg
+1 lrc groups=3 length=6
+2 lrc groups=3 length=6 global_s=2
+2 lrc groups=3 length=6 global_s=5
+4 raid6
+1 raid6
+3 lrc scheme=111s2222s1333s3egg
 

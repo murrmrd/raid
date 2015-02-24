@@ -17,30 +17,23 @@ print disks
 sizes = re.findall('\[block_sizes\]\n(.*?)\n', text)
 print sizes
 partitions = devices[0].split(' ')
-
 mod = re.findall('#\n#\n\n[0-9]*[^# ] (.*?) ', text)
 print mod
 sequence = re.findall('scheme=(.*?)\n', text)
+
 size_disk = int(volume[0][:-1])
 byte = (volume[0][-1])
 print size_disk
 print byte
-if mod[0] == 'lrc' and sequence[0] != 'optimum':
-    # get_constants.main.scheme=sequence[0]
-    get_constants.main()
-#     get_constants.get_scheme(sequence[0])
-#     get_constants.main()
-    # subprocess.Popen(['python', 'get_constants.py'])
-    # os.startfile(r'/home/murrm/PycharmProjects/raid/get_constants.py')
-    #
-    # print 'lol'
-# os.system('python get_constants.py')
+# if mod[0] == 'lrc' and sequence[0] != 'optimum':
+    # get_constants.main()
+
 if len(partitions) < int(disks[0]):
     print 'Error, partitions < disks'
     exit()
 parts = []
-for i in xrange(int(disks[0])):
-    parts.append(partitions[i])
+for j in xrange(int(disks[0])):
+    parts.append(partitions[j])
 b = ' '.join(parts)
 c = sizes[0].split(' ')
 if byte == 'G'or byte == 'g':
