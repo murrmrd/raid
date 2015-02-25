@@ -1,0 +1,3 @@
+#!bin/bash
+
+./main 1 1 > tmp.res ; cat tmp.res | grep G | sed -e 's/^.*[\t]//g; s/[ \t]//g; q' ; rm -f tmp.res

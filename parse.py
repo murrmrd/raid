@@ -1,11 +1,9 @@
 #!/bin/python
 # -*- coding: UTF-8 -*-
-import re
+
 import os, sys
 import subprocess
-import xlrd, xlwt, xlutils
-# f = open('pattern2', 'r')
-# text = f.read()
+
 def read_section(section):
     lst = open('pattern2','r').readlines()
     i = 0
@@ -16,21 +14,58 @@ def read_section(section):
         if i == section:
             if (line[0] != '#') and (line.strip() != '') and (line[0] != '['):
                 result.append(line.strip())
-    return result # не разобралась как передавать название секции а не номер,не работет у меня почему то
-                  #по номеру все отлично
+    return result
 
 devices = read_section(1)
 volume = read_section(2)
 sizes = read_section(3)
 tests = read_section(4)
-# devices = re.findall('\[devices\]\n(.*?)\n', text)
-# volume = re.findall('\[volume\]\n(.*?)\n', text)
-# sizes = re.findall('\[block_sizes\]\n(.*?)\n', text)
 partitions = devices[0].split(' ')
 size_disk = int(volume[0][:-1])
 byte = (volume[0][-1])
-# tests = []
-# tests = re.findall('\*(.*?)\n', text)
+
+################################################################
+schemes = 'schemes.csv'
+columns = {'groups':0, 'length':1,'disks':2,'global_s':3,'scheme':4}
+
+def dict2list(dct):
+    lst = ['']*len(dct)
+
+    for i in dct.items():
+        lst[columns[i[0]]] = i[1]
+
+    return lst
+
+def add_scheme(dct):
+    lst = dict2list(dct)
+    schm = ','.join(str(i) for i in lst) + '\n'
+
+    with open(schemes, "a") as f:
+        f.write(schm)
+
+    return 0
+
+def search_scheme(params):
+    f = open(schemes)
+
+    for line in f:
+        array = line.split(',')
+        match = True
+        for j in params.items():
+            try:
+                pattern = int(array[columns[j[0]]])
+            except:
+                pattern = 0
+            if (pattern != j[1]):
+                match = False
+
+        if match:
+            return array[columns['scheme']].strip()
+
+    return 0
+
+###############################################################
+
 
 for i in xrange(len(tests)):
     test1 = tests[i].split(' ')
@@ -41,7 +76,7 @@ for i in xrange(len(tests)):
 
     if len(test1) > 2:
         if test1[2][:6] == 'scheme':
-            get_scheme = test1[2][7:] #скопировала сюда же get_constants, так удобнее
+            get_scheme = test1[2][7:]
 
             def defines(scheme):
                 sd = scheme.count('1') - 1
@@ -203,10 +238,19 @@ for i in xrange(len(tests)):
             else:
                 global_s = 1
 
-            with open('defines','w') as defns:
-                defns.write('#define disks_count %s\n#define groups_count %s\n#define group_len %s\n' % (int(test1[0]),groups,length))
+            param = {'groups':groups, 'length':length,'disks':int(test1[0]),'global_s':global_s}
+            if search_scheme(param) == 0:
+                with open('defines','w') as defns:
+                    defns.write('#define disks_count %s\n#define groups_count %s\n#define group_len %s\n' % (int(test1[0]),groups,length))
+                #запуск искалки
+                dct={'groups':groups, 'length':length,'disks':int(test1[0]),'global_s':global_s,'scheme':0}#схема из искалки
+                add_scheme(dct)
+            else:
+                get_scheme = search_scheme(param)
+    print get_scheme
 
-            #тут искалка и поиск/запись в таблицу
+
+
     parts=[]
     for j in xrange(int(test1[0])):
         parts.append(partitions[j])
@@ -223,9 +267,11 @@ for i in xrange(len(tests)):
         for k in xrange(len(c)):
             table.write('0 %s insane %s %s %s recover 1 %s  \n' % (size_block, test1[1], int(test1[0]), int(c[k]),b ))#+размер блоков и тд
 
-    command = 'echo 123 >> echo1.txt' #тут будут bash скрипты
-    process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE, shell=True)
-    output,error = process.communicate()
+    # subprocess.call('./run_up ; ./results ; ./clean', shell=True) #запуск баш скриптов
+
+    # command = 'echo 123 >> echo1.txt'
+    # process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE, shell=True)
+    # output,error = process.communicate()
     # print test1
 # print tests
 # f.close()
