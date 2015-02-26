@@ -1,3 +1,10 @@
-#!bin/bash
+command1 ="cd /home/murrm/practice/PyramidalBruteforce-random-shuffle; ./main 1 1 > tmp.res ; cat tmp.res | grep G | sed -e 's/^.*[\t]//g; s/[ \t]//g; q' ; rm -f tmp.res ; "
+process1 = subprocess.Popen(command1, stdout=subprocess.PIPE, shell=True)
+# out,err = process.communicate()
 
-./main 1 1 > tmp.res ; cat tmp.res | grep G | sed -e 's/^.*[\t]//g; s/[ \t]//g; q' ; rm -f tmp.res
+# t = threading.Timer(10.0, go)
+# t.start()
+
+out = process1.stdout.read()
+# time.sleep(10)
+print out

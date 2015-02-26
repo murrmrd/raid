@@ -574,3 +574,1075 @@
 0 786432 insane lrc 3 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
 0 786432 insane lrc 3 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
 0 786432 insane lrc 3 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 1048576 insane lrc 4 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 262144 insane lrc 1 64 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 128 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 256 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 512 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 1024 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 2048 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 4096 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 8192 recover 1 /dev/sdb5  
+0 524288 insane lrc 2 64 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 128 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 256 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 512 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 1024 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 2048 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 4096 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 8192 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 64 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 128 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 256 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 512 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 1024 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 2048 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 4096 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 8192 recover 1 /dev/sdb5 /dev/sdb6  
+0 1048576 insane raid6 4 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 262144 insane raid6 1 64 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 128 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 256 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 512 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 1024 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 2048 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 4096 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 8192 recover 1 /dev/sdb5  
+0 786432 insane lrc 3 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 1048576 insane lrc 4 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 262144 insane lrc 1 64 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 128 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 256 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 512 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 1024 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 2048 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 4096 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 8192 recover 1 /dev/sdb5  
+0 524288 insane lrc 2 64 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 128 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 256 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 512 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 1024 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 2048 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 4096 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 8192 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 64 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 128 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 256 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 512 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 1024 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 2048 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 4096 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 8192 recover 1 /dev/sdb5 /dev/sdb6  
+0 1048576 insane raid6 4 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 262144 insane raid6 1 64 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 128 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 256 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 512 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 1024 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 2048 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 4096 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 8192 recover 1 /dev/sdb5  
+0 786432 insane lrc 3 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 1048576 insane lrc 4 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 262144 insane lrc 1 64 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 128 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 256 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 512 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 1024 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 2048 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 4096 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 8192 recover 1 /dev/sdb5  
+0 524288 insane lrc 2 64 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 128 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 256 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 512 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 1024 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 2048 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 4096 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 8192 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 64 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 128 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 256 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 512 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 1024 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 2048 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 4096 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 8192 recover 1 /dev/sdb5 /dev/sdb6  
+0 786432 insane lrc 3 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 1048576 insane raid6 4 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 262144 insane raid6 1 64 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 128 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 256 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 512 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 1024 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 2048 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 4096 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 8192 recover 1 /dev/sdb5  
+0 786432 insane lrc 3 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 1048576 insane lrc 4 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 262144 insane lrc 1 64 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 128 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 256 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 512 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 1024 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 2048 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 4096 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 8192 recover 1 /dev/sdb5  
+0 524288 insane lrc 2 64 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 128 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 256 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 512 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 1024 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 2048 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 4096 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 8192 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 64 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 128 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 256 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 512 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 1024 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 2048 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 4096 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 8192 recover 1 /dev/sdb5 /dev/sdb6  
+0 786432 insane lrc 3 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 1048576 insane raid6 4 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 262144 insane raid6 1 64 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 128 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 256 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 512 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 1024 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 2048 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 4096 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 8192 recover 1 /dev/sdb5  
+0 786432 insane lrc 3 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 1048576 insane lrc 4 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 262144 insane lrc 1 64 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 128 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 256 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 512 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 1024 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 2048 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 4096 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 8192 recover 1 /dev/sdb5  
+0 524288 insane lrc 2 64 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 128 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 256 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 512 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 1024 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 2048 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 4096 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 8192 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 64 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 128 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 256 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 512 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 1024 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 2048 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 4096 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 8192 recover 1 /dev/sdb5 /dev/sdb6  
+0 786432 insane lrc 3 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 1048576 insane raid6 4 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 262144 insane raid6 1 64 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 128 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 256 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 512 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 1024 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 2048 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 4096 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 8192 recover 1 /dev/sdb5  
+0 786432 insane lrc 3 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 1048576 insane lrc 4 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 262144 insane lrc 1 64 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 128 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 256 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 512 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 1024 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 2048 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 4096 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 8192 recover 1 /dev/sdb5  
+0 524288 insane lrc 2 64 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 128 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 256 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 512 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 1024 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 2048 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 4096 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 8192 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 64 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 128 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 256 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 512 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 1024 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 2048 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 4096 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 8192 recover 1 /dev/sdb5 /dev/sdb6  
+0 786432 insane lrc 3 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 1048576 insane raid6 4 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 262144 insane raid6 1 64 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 128 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 256 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 512 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 1024 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 2048 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 4096 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 8192 recover 1 /dev/sdb5  
+0 786432 insane lrc 3 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 1048576 insane lrc 4 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 262144 insane lrc 1 64 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 128 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 256 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 512 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 1024 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 2048 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 4096 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 8192 recover 1 /dev/sdb5  
+0 524288 insane lrc 2 64 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 128 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 256 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 512 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 1024 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 2048 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 4096 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 8192 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 64 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 128 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 256 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 512 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 1024 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 2048 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 4096 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 8192 recover 1 /dev/sdb5 /dev/sdb6  
+0 786432 insane lrc 3 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 1048576 insane raid6 4 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 262144 insane raid6 1 64 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 128 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 256 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 512 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 1024 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 2048 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 4096 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 8192 recover 1 /dev/sdb5  
+0 786432 insane lrc 3 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 1048576 insane lrc 4 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 262144 insane lrc 1 64 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 128 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 256 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 512 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 1024 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 2048 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 4096 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 8192 recover 1 /dev/sdb5  
+0 524288 insane lrc 2 64 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 128 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 256 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 512 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 1024 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 2048 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 4096 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 8192 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 64 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 128 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 256 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 512 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 1024 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 2048 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 4096 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 8192 recover 1 /dev/sdb5 /dev/sdb6  
+0 786432 insane lrc 3 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 1048576 insane raid6 4 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 262144 insane raid6 1 64 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 128 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 256 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 512 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 1024 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 2048 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 4096 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 8192 recover 1 /dev/sdb5  
+0 786432 insane lrc 3 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 1048576 insane lrc 4 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 262144 insane lrc 1 64 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 128 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 256 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 512 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 1024 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 2048 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 4096 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 8192 recover 1 /dev/sdb5  
+0 524288 insane lrc 2 64 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 128 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 256 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 512 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 1024 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 2048 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 4096 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 8192 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 64 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 128 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 256 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 512 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 1024 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 2048 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 4096 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 8192 recover 1 /dev/sdb5 /dev/sdb6  
+0 786432 insane lrc 3 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 1048576 insane raid6 4 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 262144 insane raid6 1 64 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 128 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 256 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 512 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 1024 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 2048 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 4096 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 8192 recover 1 /dev/sdb5  
+0 786432 insane lrc 3 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 1048576 insane lrc 4 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 262144 insane lrc 1 64 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 128 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 256 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 512 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 1024 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 2048 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 4096 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 8192 recover 1 /dev/sdb5  
+0 524288 insane lrc 2 64 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 128 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 256 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 512 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 1024 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 2048 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 4096 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 8192 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 64 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 128 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 256 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 512 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 1024 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 2048 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 4096 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 8192 recover 1 /dev/sdb5 /dev/sdb6  
+0 786432 insane lrc 3 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 1048576 insane raid6 4 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 262144 insane raid6 1 64 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 128 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 256 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 512 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 1024 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 2048 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 4096 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 8192 recover 1 /dev/sdb5  
+0 786432 insane lrc 3 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 1048576 insane lrc 4 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 262144 insane lrc 1 64 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 128 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 256 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 512 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 1024 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 2048 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 4096 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 8192 recover 1 /dev/sdb5  
+0 524288 insane lrc 2 64 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 128 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 256 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 512 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 1024 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 2048 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 4096 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 8192 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 64 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 128 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 256 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 512 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 1024 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 2048 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 4096 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 8192 recover 1 /dev/sdb5 /dev/sdb6  
+0 786432 insane lrc 3 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 1048576 insane raid6 4 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 262144 insane raid6 1 64 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 128 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 256 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 512 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 1024 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 2048 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 4096 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 8192 recover 1 /dev/sdb5  
+0 786432 insane lrc 3 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 1048576 insane lrc 4 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 262144 insane lrc 1 64 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 128 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 256 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 512 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 1024 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 2048 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 4096 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 8192 recover 1 /dev/sdb5  
+0 524288 insane lrc 2 64 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 128 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 256 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 512 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 1024 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 2048 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 4096 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 8192 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 64 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 128 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 256 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 512 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 1024 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 2048 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 4096 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 8192 recover 1 /dev/sdb5 /dev/sdb6  
+0 786432 insane lrc 3 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 1048576 insane raid6 4 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 262144 insane raid6 1 64 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 128 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 256 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 512 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 1024 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 2048 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 4096 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 8192 recover 1 /dev/sdb5  
+0 786432 insane lrc 3 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 1048576 insane lrc 4 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 262144 insane lrc 1 64 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 128 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 256 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 512 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 1024 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 2048 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 4096 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 8192 recover 1 /dev/sdb5  
+0 524288 insane lrc 2 64 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 128 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 256 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 512 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 1024 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 2048 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 4096 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 8192 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 64 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 128 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 256 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 512 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 1024 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 2048 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 4096 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 8192 recover 1 /dev/sdb5 /dev/sdb6  
+0 786432 insane lrc 3 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 1048576 insane raid6 4 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 262144 insane raid6 1 64 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 128 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 256 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 512 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 1024 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 2048 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 4096 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 8192 recover 1 /dev/sdb5  
+0 786432 insane lrc 3 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 1048576 insane lrc 4 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 262144 insane lrc 1 64 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 128 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 256 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 512 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 1024 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 2048 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 4096 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 8192 recover 1 /dev/sdb5  
+0 524288 insane lrc 2 64 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 128 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 256 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 512 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 1024 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 2048 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 4096 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 8192 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 64 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 128 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 256 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 512 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 1024 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 2048 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 4096 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 8192 recover 1 /dev/sdb5 /dev/sdb6  
+0 786432 insane lrc 3 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 1048576 insane raid6 4 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 262144 insane raid6 1 64 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 128 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 256 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 512 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 1024 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 2048 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 4096 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 8192 recover 1 /dev/sdb5  
+0 786432 insane lrc 3 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 1048576 insane lrc 4 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 262144 insane lrc 1 64 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 128 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 256 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 512 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 1024 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 2048 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 4096 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 8192 recover 1 /dev/sdb5  
+0 524288 insane lrc 2 64 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 128 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 256 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 512 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 1024 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 2048 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 4096 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 8192 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 64 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 128 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 256 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 512 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 1024 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 2048 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 4096 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 8192 recover 1 /dev/sdb5 /dev/sdb6  
+0 786432 insane lrc 3 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 1048576 insane raid6 4 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 262144 insane raid6 1 64 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 128 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 256 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 512 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 1024 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 2048 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 4096 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 8192 recover 1 /dev/sdb5  
+0 786432 insane lrc 3 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 1048576 insane lrc 4 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 262144 insane lrc 1 64 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 128 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 256 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 512 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 1024 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 2048 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 4096 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 8192 recover 1 /dev/sdb5  
+0 524288 insane lrc 2 64 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 128 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 256 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 512 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 1024 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 2048 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 4096 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 8192 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 64 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 128 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 256 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 512 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 1024 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 2048 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 4096 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 8192 recover 1 /dev/sdb5 /dev/sdb6  
+0 786432 insane lrc 3 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 1048576 insane raid6 4 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 262144 insane raid6 1 64 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 128 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 256 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 512 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 1024 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 2048 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 4096 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 8192 recover 1 /dev/sdb5  
+0 786432 insane lrc 3 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 1048576 insane lrc 4 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane lrc 4 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 262144 insane lrc 1 64 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 128 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 256 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 512 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 1024 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 2048 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 4096 recover 1 /dev/sdb5  
+0 262144 insane lrc 1 8192 recover 1 /dev/sdb5  
+0 524288 insane lrc 2 64 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 128 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 256 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 512 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 1024 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 2048 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 4096 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 8192 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 64 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 128 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 256 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 512 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 1024 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 2048 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 4096 recover 1 /dev/sdb5 /dev/sdb6  
+0 524288 insane lrc 2 8192 recover 1 /dev/sdb5 /dev/sdb6  
+0 786432 insane lrc 3 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 1048576 insane raid6 4 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 1048576 insane raid6 4 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7 /dev/sdb8  
+0 262144 insane raid6 1 64 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 128 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 256 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 512 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 1024 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 2048 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 4096 recover 1 /dev/sdb5  
+0 262144 insane raid6 1 8192 recover 1 /dev/sdb5  
+0 786432 insane lrc 3 64 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 128 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 256 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 512 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 1024 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 2048 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 4096 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  
+0 786432 insane lrc 3 8192 recover 1 /dev/sdb5 /dev/sdb6 /dev/sdb7  

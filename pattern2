@@ -29,7 +29,8 @@
 4 lrc scheme=11111s122222s233333s3eg
 1 lrc groups=3 length=6
 2 lrc groups=2 length=6 global_s=2
-2 lrc groups=2 length=6 global_s=5
+2 lrc groups=2 length=5 global_s=2
+3 lrc groups=4 length=7
 4 raid6
 1 raid6
 3 lrc scheme=111s2222s1333s3egg
